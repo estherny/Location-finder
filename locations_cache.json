@@ -1,0 +1,1018 @@
+[
+  {
+    "geometry": {
+      "location": {
+        "lat": 34.0645932,
+        "lng": -117.6483422
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.09322392162334,
+          "lng": -117.5240011124952
+        },
+        "southwest": {
+          "lat": 33.97531201000525,
+          "lng": -117.6829470938801
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Ontario",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106723209581886213614\">David Sharp</a>"
+        ],
+        "photo_reference": "AeeoHcLGrKMJgKTxfhqsT1WnGXnkWuru5OWX-6_0NPIz344C0dzEn31hJ9Wx6R1MUT9cSfjNMf7ij8jfhwTpXZwy_n6-EMh8GgFvYXSjIx1MlW9VMsZvXh4ZpDkXgBzCTjT0VFHhe9vr8t0aDPuhd-Sn5YkEnQWpXkyqTZYdKOa-I9ZYibh2jVA4LzND-NYVAKARRqeOLLCR1jx7aJ6U5iaOMiBZkocop0I8bwoISe7HQUtm3OJxRvVZt8bY4nFcvc9RJfgckZG7u9_Dod6VU2AyawLwqKJk9XNYeqy1fIY2u-J3g4MgcJsMIRfWn9BrSQ-19zTFU4rtTYLorVPwiM0bXyLMVVdXwBz9EUGYeeMN9CodGnX6ZGmNaSgDx4nL8pjB8Nm_N4AW3ic8J9YsF22DQ5KulzWFnZFdZToL9fFfpWpMe19l9tZVOECoj9ZQqszYGP5q0FFyAcrp5Z5uWMtd3y1cD4perEP_YGrYqfCnIi_f--48k-zCezNNxSzASd7Ti_zkDKyY47MdR25mSsOEY8ckTePe_aPytvSO-aeuLXwLfJPcvnu4W5sxjd0raYdPbSnvGwA6Cu_ZegEdh7wdbSr7bHLMKZRbOqAFCSialU43V5aORnYBYzMcioAM4A",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJe2Ld6ts0w4ARkDFY-VrjAwc",
+    "reference": "ChIJe2Ld6ts0w4ARkDFY-VrjAwc",
+    "scope": "GOOGLE",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "vicinity": "Ontario"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.1075692,
+        "lng": -117.7238606
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.10875128029149,
+          "lng": -117.7224781197085
+        },
+        "southwest": {
+          "lat": 34.1060533197085,
+          "lng": -117.7251760802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "DoubleTree by Hilton Hotel Claremont",
+    "photos": [
+      {
+        "height": 945,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103680684454830117234\">DoubleTree by Hilton Hotel Claremont</a>"
+        ],
+        "photo_reference": "AeeoHcIz2Stv20tpWn3rDuGwtWsarZiiy8ynyvJTXCGuqp4nUOq51h84Y5cIlzRoK1vPORMCEkhT8Hota7m7Q_ymo8FA8sbMXQv5M9djr6agkr--s-5ksKxFQ9NpW_59y1YKPHzWlvGmG3Ie-aY6QIG1F8ZZUt5qZHs97dtQgpTrCJoyrlInb9t8f9aV_OuPH-nrwAluXNr1uRFHGUS7pc1cBpTfbRd72bg8FKs6iIQZDZ-tEr6aAoyXEzhzwEmZ1y9bsZvt0wCXtKLoJ2ZlAO66OrhLhBZEutMFz_Y2ioZKR3TcSJm0zypRfaNxD0YJIIaTJjMiDf-USmA",
+        "width": 1491
+      }
+    ],
+    "place_id": "ChIJ_3shas4xw4ARs2ERm8Ki9y4",
+    "plus_code": {
+      "compound_code": "475G+2F Claremont, CA, USA",
+      "global_code": "8564475G+2F"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ_3shas4xw4ARs2ERm8Ki9y4",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1453,
+    "vicinity": "555 West Foothill Boulevard, Claremont"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.0947864,
+        "lng": -117.7203878
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.0960531302915,
+          "lng": -117.7190260697085
+        },
+        "southwest": {
+          "lat": 34.0933551697085,
+          "lng": -117.7217240302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Hotel Casa 425 + Lounge",
+    "photos": [
+      {
+        "height": 683,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108018398584216633771\">Hotel Casa 425 + Lounge</a>"
+        ],
+        "photo_reference": "AeeoHcJ59JCsatG2XOAVVF4d5H_IXbCww0ptni0UpGH49uMdZKSB6lRutDqGxSzdMN5LvTZqMGCZaTN_l2vxekdmOLWmdShZi-LrFUaigRDyuOfiCrf_y0AyTLt6_Xp-lBwfgNZQ0mKPCs0N-M-1I-TpFpDc_aTTg78r6N0517KS_JR7m2nlsdaQSYs_SzNK1nNnILolYui5b_QyXR3koGBUwFMSMO5nYawPLnpFzn9Uq_FsvKNocziKweK5KHKE3ijy-P0Rg48QQ2kigEtgF1KElE7JlEcf9K1q98RZ2T4ZB-UjYOA5AdnXdPzpb1eWFasIf0U9scu60Z0",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJvY78AMIxw4ARw4mzsqbC75I",
+    "plus_code": {
+      "compound_code": "37VH+WR Claremont, CA, USA",
+      "global_code": "856437VH+WR"
+    },
+    "rating": 4.4,
+    "reference": "ChIJvY78AMIxw4ARw4mzsqbC75I",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 416,
+    "vicinity": "425 West 1st Street, Claremont"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.08271419999999,
+        "lng": -117.7182124
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.0840773302915,
+          "lng": -117.7169204697085
+        },
+        "southwest": {
+          "lat": 34.0813793697085,
+          "lng": -117.7196184302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Claremont Lodge",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108693951635072780100\">Claremont Lodge</a>"
+        ],
+        "photo_reference": "AeeoHcKNL36EVeOJo0PkZRMrZlnd_UEsbtnLo1GT1KVGU2f7uHXvYl3lhfkNu4BhAhUzYWvqxdqF0aXweZ8bC3-4TdWMFdqcx_R1fxMgiVBJrPW6Z5ssu8I7rhmZs2JFWmxHt9VnL6q4ULm4Vn0_5r-h3NmumJQVIc3nEKU-xCEry37jnf3C090tIzwhSx8il2LmW1IAMxHnNLvlffC_2G0h7epslZJtn94DiVJFQyo2-JD6BsHOlKnLBhzV-hjIHj_m7164tOAqjJV5Uv7oPjj6qamFvzS-2sXWZ-s_bj752K1J5uI3qQ1PbQmZnrteF7DlLkjGCqH-kNw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ-8jKJPIxw4ARPFKijsKkUgM",
+    "plus_code": {
+      "compound_code": "37MJ+3P Claremont, CA, USA",
+      "global_code": "856437MJ+3P"
+    },
+    "rating": 4,
+    "reference": "ChIJ-8jKJPIxw4ARPFKijsKkUgM",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 371,
+    "vicinity": "736 South Indian Hill Boulevard, Claremont"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.1037145,
+        "lng": -117.7118732
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.1050634802915,
+          "lng": -117.7105242197085
+        },
+        "southwest": {
+          "lat": 34.1023655197085,
+          "lng": -117.7132221802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Claremont Graduate University",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102441285492379246876\">Elodie zhang</a>"
+        ],
+        "photo_reference": "AeeoHcKTqqZIdmDdnKqaHiZ-GtQiugena3nxlYFYka-1Ugdi7ztaOumhVauLT1aTbcCIxwGFFU-YgvRd_cpJCjoYALH1nWKIFR4loQkptgOavGXHfFvsn9pLkBekojuNUKBxNE9MMyfevf5VHuIZ5B8yMvuQbsazsjTm19PFbnGekfJpBu7HHaKI8GQDEMmbNwfAuWK-VFXCwrywfssDHQ96Nn98SIQCArtGYgs42SNJRRO5GOpK_bK4q0kyIgS2P20bMQoprUDGh0s_gN0Jc61ve1oojH5VBt-ZkRWrxdQq0q0Y7tlo5eLj03uP-otOULOiqp-bmG1UPfbQx7u-qHsEtK0evhTZU5cUQBcwjJ3Jzyl6fFmu1tukDr3bnqEDcgU8Oy1CBVUZMeAGotJwRSc448fO6x9w1k7dEZpuDm3XZaeknuUWrtfQ1H78SVw0tx9hm3HUvSpN8rBhff6Byhw4S1SWINrkGIYVkRQ8mpeovgJcpFPalxL3nCV5erQpnHAE98WeYv6r7_3EJtV_3tEedddQVkDSlHY3Mx3ydjqQVUr-N-oj75-nmSKnOohS4a_BHcrqIzZh84eis6Mw8-MNo4sa7LLAWT_ef1yGGOxoTvtW8rliQVZa7f4VEhWfLmB9evJsAQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ9QDDh7gxw4AREk_Gz4kNedQ",
+    "plus_code": {
+      "compound_code": "473Q+F7 Claremont, CA, USA",
+      "global_code": "8564473Q+F7"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ9QDDh7gxw4AREk_Gz4kNedQ",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 49,
+    "vicinity": "150 East 10th Street, Claremont"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.0933026,
+        "lng": -117.6910643
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.0944893302915,
+          "lng": -117.6895709197085
+        },
+        "southwest": {
+          "lat": 34.0917913697085,
+          "lng": -117.6922688802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "John's Incredible Pizza - Montclair",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 270,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105620294534132161134\">John&#39;s Incredible Pizza - Montclair</a>"
+        ],
+        "photo_reference": "AeeoHcKfxE-fyGQj1bB-b5SurwF97sJog_2zyKheXg1Mxlct2Jjf7hPBno9y_ByTwXLC4m0T2Hn4CnAe7FXz0Dvk64Dpy3t4LlAaEwNu7YCiv6YT1TyhvEQ9uL_Mtvq0CxiBNTOqyjRfpY4CAin06bPOMpYfcgmKoynkv3klTyRP8S4iH5WeLalnmbV09hQyTwZUgECaiRYGZ6nZ3gUPt3cTweEyJb4NYm9XEMZyADnUYLxJb3x6rAeFQO-t_GT2koWCflk4Nu_kh07kUdNbjFNfw-kW5WL6hM2ZhMP-sVbZ8Irntb3qrRyT6WDhByvsLmC55Fq2MAE-ZRE",
+        "width": 480
+      }
+    ],
+    "place_id": "ChIJwSm9ZJ0xw4ARznDh2NvR5bw",
+    "plus_code": {
+      "compound_code": "38V5+8H Montclair, CA, USA",
+      "global_code": "856438V5+8H"
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reference": "ChIJwSm9ZJ0xw4ARznDh2NvR5bw",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4410,
+    "vicinity": "5280 Arrow Highway, Montclair"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.0868917,
+        "lng": -117.6940484
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.08839698029151,
+          "lng": -117.6924262697085
+        },
+        "southwest": {
+          "lat": 34.08569901970851,
+          "lng": -117.6951242302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "MAC Cosmetics",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102084542345981907576\">STEVEN B</a>"
+        ],
+        "photo_reference": "AeeoHcJaB4ZO78BFdwFOuD8pZuFxJjbS5R3m4pd4DYYCwaLRSiV7rPuADxLp5lCYCK0BrK6ke2WaQSpXfRfzrW-o2MT1XIVgKdkK2eS8jqWcBzGqeCt_wX1nCyJFI2v7a3jG0L_KjZzHXoxHh19ae79OMZKSIxQ09LAybS7R8bG37yVpiCVaRnWO1VlLSdJYOGJcA_9W7lXC_TFEailpnIHJ_3XJzfrOrKUsV6kONl_9Nfb7F0tKEFgV6I3_CkRkDlDJhBpv8QE22lyiH1sxLwbl_-pueM9-VOUsgWsbKjG4lumyI0yI3z0tta6Xv6n3ePJMiX5VwkXgN_nnfHB_HB3l_MjH0ZgUJJRHjDDzPkb9WFQRA4DMub0qGRMSqeQ1tyLF0UUXb0EANpg_pf1DP78fw9A0aPrXi7tFIkkuY28m8QpT4zy-YBFNaIVcjl6UvZCUBzJr5n4stUF8xt3YALjcBqZcnpoUOR9ynNSlAO2oU8Nz9JBYTsOMPbaNEyFtscpTqBWpSrnb0yToJolcjVoyi36vxNT3BFFvTXJQflTn5aBLL6ANS624WX8IY8wl8ymzyv1kMiCnnx-BdjpPUVVHIJL_has6-Kj5A9jyIzfPKl2YoojLCYpukRUgCwiimExx",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJifxbwYMxw4AR3hFNer1izis",
+    "plus_code": {
+      "compound_code": "38P4+Q9 Montclair, CA, USA",
+      "global_code": "856438P4+Q9"
+    },
+    "rating": 4,
+    "reference": "ChIJifxbwYMxw4AR3hFNer1izis",
+    "scope": "GOOGLE",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 63,
+    "vicinity": "5060 Montclair Plaza Lane, Montclair"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.1042832,
+        "lng": -117.7050738
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.10512780000001,
+          "lng": -117.7034182697085
+        },
+        "southwest": {
+          "lat": 34.1017494,
+          "lng": -117.7061162302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Pitzer College",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113348424913604235663\">Pitzer College</a>"
+        ],
+        "photo_reference": "AeeoHcJfd_mVR8TNkQ7Si5_DMmdNRyqODVRyvp6yo0sZXtJAK7mer1LqO9qEUlNxUcUHZUueKwH0-NbfvCv9q4QVU-dIx7-dIOis0Sq21Di-Z7uvaTURAWMrcc8AwE1qXCfmD6pldVeW12TyVHpTssUpoc22RM26L0ajdRn74LATrYQ65wq-wHaYUsw8mzQb_wazHBvB40zTwBWl19oC3ZiMb7XqGPQh9Z6uaDppkdZ3uWKnbVNHITUl-degmKsYDVWp0o2t9gRyqf3H1wol8Ofoij-41IbOJCkkCcfS-HOFjnemVdIxGZib3deGr8dlz9f6FZhw-W0QBhI",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJn3Cogrsxw4AR1oCQyAthZfs",
+    "plus_code": {
+      "compound_code": "473V+PX Claremont, CA, USA",
+      "global_code": "8564473V+PX"
+    },
+    "rating": 4.5,
+    "reference": "ChIJn3Cogrsxw4AR1oCQyAthZfs",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 57,
+    "vicinity": "1050 North Mills Avenue, Claremont"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.0881918,
+        "lng": -117.6881123
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.0894636802915,
+          "lng": -117.6867647197085
+        },
+        "southwest": {
+          "lat": 34.0867657197085,
+          "lng": -117.6894626802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Harbor Freight",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116787449458078912132\">Harbor Freight</a>"
+        ],
+        "photo_reference": "AeeoHcKGy0ZLLHyQTg2R3tSNSKJfa24GBH3_SvxFU5ulscnP2NBziU98Boq7GkpoNHTkE27bYvYc5hNAuLsTsIyv9w0ArvmzeIC7X_c3ZNqB4zmt-kp3qgkX7gH6yBY9Uq5LCwAL-6YM7oCCJYTTSBgU5lK2Mi4faOoPF23viT2d3_ifc9DUD24bo95u2mRM2VZgOEAkfqakKrBNe22yjMPHgZHG4Lf-DYsD3RIR3wqmgEs9eXKdb6gHy8tt9q0greSZX1IFGPDAvWkw7q52iqfZa6ngpUrtJxcJ8_aXX5LBUPiP913Vr0uKdP5V4Wzx24e72eyoeoY3pbo",
+        "width": 617
+      }
+    ],
+    "place_id": "ChIJr5Yx6Hgxw4AR0C5Cq5Q0Q8Q",
+    "plus_code": {
+      "compound_code": "38Q6+7Q Montclair, CA, USA",
+      "global_code": "856438Q6+7Q"
+    },
+    "price_level": 1,
+    "rating": 4.4,
+    "reference": "ChIJr5Yx6Hgxw4AR0C5Cq5Q0Q8Q",
+    "scope": "GOOGLE",
+    "types": [
+      "hardware_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 895,
+    "vicinity": "9137 Central Avenue Suite B, Montclair"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.1073685,
+        "lng": -117.7228195
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.1087877302915,
+          "lng": -117.7212762197085
+        },
+        "southwest": {
+          "lat": 34.1060897697085,
+          "lng": -117.7239741802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Buca di Beppo Italian Restaurant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112671338445440308563\">JAMES SMITH</a>"
+        ],
+        "photo_reference": "AeeoHcJXzPrGVlQvXhXMG7mbYj82b3JcdzElDOcbNPg5k4wlY8cEeGkgIfziQZSQsBy2MP1029LayUjKaM-qggnime23FMipnzCMyWB8dBnGxVc4IcWDyW0ys5DPHTn7NHlo4vTB6ESh6cyKTs3-51-H5RHOx3cmKGvoOppqsmP20yOuagJeywA75ePj2lAEIYqwj8xws5BrebS8OdRlaXp94XvLfSp2OJ-AJ8rGXlapK2cHIJphUOOpTpI2KXoVJnrT3IXS6ebxYQM-_XBiug_G_ltzFHNwfchFqTioHXKxSggmAUnix_trX8heCoB3LMDn-Abh31I1KxL89w3IGk6owo9eqrY8IPYyMXLqa6lULe0d-88m8ISUdSm9nvTfvM_zwqWetdGmFhydzd1CbyNLG4cN9EIzhKkoHYN9a052c2k_-KqENe1K1UHUTCz-9WULwUvZeZwDasWREygEvoCkKE7xXK5-bEGVjMplmptQhmJAKj1wwj6K1bLM6KGsTGSqkQhRAb-7O0pB83yE91FM72GnNgeatJ2nM01yUusdegn7DbbT5M_O10RH454zgK6dXB3U1i4jTrG7psQD5UZRaR7WR59Yk_QJgZxihtM3Czq5Fz-r1Ch1E0lKwb5Xae2xumlOU6sad04DcON1ATg15Q",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJIemW-M4xw4AR20hXrsScu3A",
+    "plus_code": {
+      "compound_code": "474G+WV Claremont, CA, USA",
+      "global_code": "8564474G+WV"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJIemW-M4xw4AR20hXrsScu3A",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3329,
+    "vicinity": "505 West Foothill Boulevard, Claremont"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.1105943,
+        "lng": -117.7151022
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.1119918302915,
+          "lng": -117.7136894697085
+        },
+        "southwest": {
+          "lat": 34.1092938697085,
+          "lng": -117.7163874302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "California Botanic Garden",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3897,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106005974985635117156\">California Botanic Garden</a>"
+        ],
+        "photo_reference": "AeeoHcIlRnwMYALd0A4toeFZOZrbDtOZY3andNv6uX2quqb2Re2UxBvUvV6sJpuxkFLrd1OhnidkmLWawP22tLv61hvuB5p3svQFI8aJEt-KrPnNeaag7JfbGiBk2Xx8uIaR9fDqiqluNhykT89ABo_8a4gaKsHHLWwAXJo7kKnf60J3Vy87_BNXHqFdPCOxbngG_L6KweWyiKIqhX4L7qcnU8oPNZKbDnaSELFY35Jr7sHqZqem31Oi-RSo5CQ3rSJUqYh17Gmyd6S1pZV6bhimrLGtm9grb3YI8l793_x3czkA_U5KaRrUAhPNiGyAiSGpjSOEWbSlgQQ",
+        "width": 4871
+      }
+    ],
+    "place_id": "ChIJ_0I4bcoxw4ARzFAQDp6OAIo",
+    "plus_code": {
+      "compound_code": "476M+6X Claremont, CA, USA",
+      "global_code": "8564476M+6X"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ_0I4bcoxw4ARzFAQDp6OAIo",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 589,
+    "vicinity": "1500 North College Avenue, Claremont"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.088327,
+        "lng": -117.668376
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.0897064802915,
+          "lng": -117.6672548697085
+        },
+        "southwest": {
+          "lat": 34.0870085197085,
+          "lng": -117.6699528302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Hobby Lobby",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 360,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101635712935236229081\">Hobby Lobby</a>"
+        ],
+        "photo_reference": "AeeoHcIOkpEbIJTzo4aP4lJjk-R_x3HNXJpDiMy19wB6tXD2YbNSTSZ0xLuW4ncvw-9SsBqdg7_0TZFFBLAGEapxzIDA0WUicY4DGxZ9ulEfL7b0zC7dcOqOS4lDY0URVPbETNFSX1cp1mmuubQU6DTfof_mBh4l_X0LcIUCKpPPIpm7aqpr9oAmfHRYfN5hwffUNd3gNopLOCFcV0Hqw2nbPtonGRJr4lVkLNEAofalq63c4RsY5TRWcKOHhAN6JhFI-EkrKuNwCOnMlcSBXe8-Sl5iGgGArB2ybXlAgjf_rVjTFupRKaNLaqVkIg6EEFXMRx_dszZR08E",
+        "width": 640
+      }
+    ],
+    "place_id": "ChIJQ1fyQmAxw4ARbY0JPNXb5M0",
+    "plus_code": {
+      "compound_code": "38QJ+8J Upland, CA, USA",
+      "global_code": "856438QJ+8J"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJQ1fyQmAxw4ARbY0JPNXb5M0",
+    "scope": "GOOGLE",
+    "types": [
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2436,
+    "vicinity": "420 South Mountain Avenue, Upland"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.1073633,
+        "lng": -117.741102
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.1086125802915,
+          "lng": -117.7397549697085
+        },
+        "southwest": {
+          "lat": 34.1059146197085,
+          "lng": -117.7424529302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Stardust Motel",
+    "photos": [
+      {
+        "height": 272,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107287876952408404029\">Stardust Motel</a>"
+        ],
+        "photo_reference": "AeeoHcJdb-g4UX3dlSrTxReYPlETf1ERnUsrLMe67YPbXG1pjNfp_eNbsaGvq_0yJ5OpMsxiy_XtDvpVT8wzqrbE4W0nJyqIAHC1NnAVIa3KD4QICoMPQ8iQK46RqxTftIe0wCRnAuXJYSjbt7mvaDOH5zZ9_idLJkm8mRi9z2Y6kroHYlJewO7wQjxUehwJZ-sV_7gz8IS8gFH08KNZoe-F3RQmn2NpdWVaBrXBqLskREGdxSLVXYBEvXhU4aSnFCPJ167Ct76WTK3MzDnSbdhwd8Mxe6eggGFnEB0tIURSfRuMLTe_fgQCtiP7a4k2TyHbKVc7eQ",
+        "width": 680
+      }
+    ],
+    "place_id": "ChIJzYn1pysuw4ARMeOJnamUwo0",
+    "plus_code": {
+      "compound_code": "4745+WH Pomona, CA, USA",
+      "global_code": "85644745+WH"
+    },
+    "rating": 3.3,
+    "reference": "ChIJzYn1pysuw4ARMeOJnamUwo0",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 120,
+    "vicinity": "433 East Foothill Boulevard, Pomona"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.1124707,
+        "lng": -117.7224185
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.11544525,
+          "lng": -117.71869915
+        },
+        "southwest": {
+          "lat": 34.11076905,
+          "lng": -117.72515535
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Claremont High School",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112864581526702244228\">Matey Checko</a>"
+        ],
+        "photo_reference": "AeeoHcJ05AI3NvCnJA_JI7e6APpldf7NI6YDN8X-dvBARbX6gAsxGN1awXqfu4dWC_CD5ok9TwwaGLCUD2VRwz-jTFttswTelKplxtteJ6WDxLTO5wcvhuuDIp4uHFiJcdxqnRJxdw7VUauCwdxEvADRQdgzstp5AXqCY8Tmjr9Ms2PQFKbt74hJgB-rj3Pvr2nLA4yaDVphemLcaZ50Wv78r1HQAnSQ9KR5Ph1wOlV7U3GyLEXtFV1CyAV-Jy4hSfdbf-ZAT2LAlDntdtlQK19BRPhWv8gnHW_3GR2lNOQ9gWLLS1Qj0lzs21Np4flOvIRk9-B7bVDRN_1uVXR3rUyoXbUmMXCrU0os6fERTmk2CI7yHQRs0qtsjz4zsXTCLG7fTcME3CHgqFNwS-0vsPP7H74PAg99smodYMoqSyYBF36iXDnq8TcPbCby88y9RmvdPS57pyjZUFJG2LYaId2dvLNkToovwL_sU7lWbQNxnMLXFinMXd9PGj9jzSgxoxnNYEr-xaRBrhNKVuiQDRytOWOCdyDhgrAdhmUsS3YkCgfn42CPKYfynBRntgJaIorHlPidcwB23qzRVlsQ1bk9EMN2bCYcCh33bQZfTqpi_2k8QkEsco1nOqO7A2w39VmAt-2MEA",
+        "width": 3840
+      }
+    ],
+    "place_id": "ChIJPw3IZswxw4ARzIb1OB6MdW0",
+    "plus_code": {
+      "compound_code": "476H+X2 Claremont, CA, USA",
+      "global_code": "8564476H+X2"
+    },
+    "rating": 3.8,
+    "reference": "ChIJPw3IZswxw4ARzIb1OB6MdW0",
+    "scope": "GOOGLE",
+    "types": [
+      "secondary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 33,
+    "vicinity": "1601 North Indian Hill Boulevard, Claremont"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.1144056,
+        "lng": -117.6998972
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.1157958302915,
+          "lng": -117.6981870697085
+        },
+        "southwest": {
+          "lat": 34.1130978697085,
+          "lng": -117.7008850302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Claremont Club",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5184,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114924214033645647519\">The Claremont Club</a>"
+        ],
+        "photo_reference": "AeeoHcI0aBYmlOgZ8PCa-kBHxjnG7na8o2gMLxM24GQcXkI5vsDOEKtY2CWnlNAX4f4xU0TiWLtPLypetU9alrfnyPkFKOUChJlobUnyyOHsQV-qlgg8N39elfsaNZFS46efe1S909BXF-weB-5rzF-lP5T0NUlp-n9HpC5QlHqT-6oglfCDohE0tccVHRIY54S_SyVMOH3H2dTjf44Kr8LtLaJ102fJgbJUvmB6fpTdJPg-ErEDxHQiurwlcf6-zJ0cKkeIDsnjDluJFag5syJA9SpUD1hGafcnxw8G9sIBpheITHUKSV3FDn0R2hrp8-ff8jTyPElZAws",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJ54TE060xw4ARHAMkGWhQ9jQ",
+    "plus_code": {
+      "compound_code": "4872+Q2 Claremont, CA, USA",
+      "global_code": "85644872+Q2"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ54TE060xw4ARHAMkGWhQ9jQ",
+    "scope": "GOOGLE",
+    "types": [
+      "gym",
+      "spa",
+      "beauty_salon",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 102,
+    "vicinity": "1777 Monte Vista Avenue, Claremont"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.086105,
+        "lng": -117.67124
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.08699333029151,
+          "lng": -117.6694616197085
+        },
+        "southwest": {
+          "lat": 34.08429536970851,
+          "lng": -117.6721595802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+    "name": "Regal Edwards Ontario Mountain Village",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2680,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112602514424467719306\">Joe Ramirez</a>"
+        ],
+        "photo_reference": "AeeoHcJSk7CvMjplScJDkq-rE6X83JL32lbtq_3aCFgHuzfSGblfzy-GCK8w0-3zqdn07MQA1pqddEVPW_a9olz2i65xTBygkp6oFy21UsNTR5NtcLa8lAqEI8kSKOKn4qzCY-bx0AvtpXH3wbXnMqgV4UDOKf8pMriXvDf8oBt_v35bGhpZPDUx24MQaiZVKuXuiSErhtGxcNctzjZJ79w-u5qM1apo6Z9OxuBITT6FzRjKjjPZYHhc7lvK8IsgXoJnXUopey8pnEW7ZNBD4655dxru2Uj7WtgCokxB2Ahw8pLbxlM5hPWBfIDS6Ic85XHRX68GdWcVJsIxhhcIQGw-KQNGr1WqKnjJojMElyfSYKxzYutyoswds5Jk1IFVeWknGN9dmHevhhNRSXcLvYGkBVr_L9aqiP5Pkz7yUOTlw9ueB8TQ18k0Llwk6yi3YLXjoMY0WHVsMPj1hc8PLtcLL2J8Rq9c0Kr4RGLL2AoSklWFTMduBU9WKTTwy_kfi3o6_Bo9VPTsGhWpPPr4iI5DkYDWgAr3_7BDv_kCJwsrwlhKds3YtIPI4ht_N4NUMRmaTmWLy9tX6lCabwZgBAUyx7u9yo82_8wcYYAL2Hx8PlzDKRiCX1OB6wIdG_qK0x6L",
+        "width": 3691
+      }
+    ],
+    "place_id": "ChIJpcpY3GExw4ARRZDF409RKYQ",
+    "plus_code": {
+      "compound_code": "38PH+CG Ontario, CA, USA",
+      "global_code": "856438PH+CG"
+    },
+    "rating": 4.5,
+    "reference": "ChIJpcpY3GExw4ARRZDF409RKYQ",
+    "scope": "GOOGLE",
+    "types": [
+      "movie_theater",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3149,
+    "vicinity": "1575 North Mountain Avenue, Ontario"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.0865663,
+        "lng": -117.6943796
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.08788078029149,
+          "lng": -117.6936223
+        },
+        "southwest": {
+          "lat": 34.08518281970849,
+          "lng": -117.6966515
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "MIA Salon Spa",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106323952280143534780\">MIA Salon Spa</a>"
+        ],
+        "photo_reference": "AeeoHcLt4gv00mLCYtUNIys-UiWuYtOKZ8gCbcESreM9gVfc-t8LqvuKoN6wVzQ-KkG9oFrrzVkKrjSOFNzFK0s4iIRN10xP77R_p3TieiNu_J7j9M-15rOGjsMD3x6IJz8mvPGEW0a7apPTgwfPduxoHJ0i4sf1oAehaRuFRJexnXMTnYk97I8cdyOmjMGLmW5wqcn2VW5xNz2VWiK5XEM1XwrBg99V4eLaZsNtA6hZN89qmguvH6PUVAIQq5fTHVCLPjg_SQ84Gm2Qf71AH7mtixsmUDmLUP6MzWTbHr0YYFWsRorYgm7ibvXm1BkDNw06em94R9jt4M0",
+        "width": 1536
+      }
+    ],
+    "place_id": "ChIJifxbwYMxw4AR2hRse8mvkU8",
+    "plus_code": {
+      "compound_code": "38P4+J6 Montclair, CA, USA",
+      "global_code": "856438P4+J6"
+    },
+    "rating": 4.4,
+    "reference": "ChIJifxbwYMxw4AR2hRse8mvkU8",
+    "scope": "GOOGLE",
+    "types": [
+      "spa",
+      "beauty_salon",
+      "hair_care",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 80,
+    "vicinity": "5060 Montclair Plaza Lane #5025a, Montclair"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.0826254,
+        "lng": -117.6724518
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.0842453802915,
+          "lng": -117.6707575697085
+        },
+        "southwest": {
+          "lat": 34.0815474197085,
+          "lng": -117.6734555302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Walmart Supercenter",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100256188492759071073\">Walmart Supercenter</a>"
+        ],
+        "photo_reference": "AeeoHcLHyuuM4U7bDAi5E2g_nS-tydZpaTkkgnAqwgg6_wnwJXrJHaZBCM7w7F0BlA-6SyrdbjZU-KrVudB7bM8JjUQQAcyM_E1zmsD4nvDX6GrOjCeD2RWLXOTeQPgtKL1qdytXL5_24WtgkGKk67bRiT9zyQIv1M0IyKGx4oYE9RnpIrBbcnUdAIBol50LKuRFNERHO466AsLlivbpeq9X9RuouaiXHwhMst9pZR_5w2jQFGlAtyIiWEmjo-ylBhCiXL65H1pVlvV-IqPiRBKInKfb08xWW2Oav619Zq6jKY0HunSRwJgjQMGnJuEaO5DCCHYzXO_sVrE",
+        "width": 1067
+      }
+    ],
+    "place_id": "ChIJmZGK2d4zw4ARMab2LKFhrsA",
+    "plus_code": {
+      "compound_code": "38MH+32 Ontario, CA, USA",
+      "global_code": "856438MH+32"
+    },
+    "price_level": 1,
+    "rating": 4,
+    "reference": "ChIJmZGK2d4zw4ARMab2LKFhrsA",
+    "scope": "GOOGLE",
+    "types": [
+      "department_store",
+      "electronics_store",
+      "hardware_store",
+      "bakery",
+      "furniture_store",
+      "home_goods_store",
+      "clothing_store",
+      "grocery_or_supermarket",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9531,
+    "vicinity": "1333 North Mountain Avenue, Ontario"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.0881629,
+        "lng": -117.6723831
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.0898161802915,
+          "lng": -117.6711383197085
+        },
+        "southwest": {
+          "lat": 34.0871182197085,
+          "lng": -117.6738362802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "name": "Super 8 by Wyndham Upland Ontario CA",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 399,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113681187009483165658\">Super 8 by Wyndham Upland Ontario CA</a>"
+        ],
+        "photo_reference": "AeeoHcIj_apSH_4e9SVT16h2DUkjZvSh6q8XyNhnKCbx_vxhx2SgW1XNa3OrZPZw34lVWSF2W4PrC4PQGDY5tFXwbnGxRFYnzh_u17MR2Kf1OzZjp5rC-QE0_rYuVgtux47KzQzQnuj7SiSUw5W5kCdPQsJ2heaFsHoN3HfjztRXSE-WmJ0AQsL49w1thEUxaYC9fAZWM_lmLjOFpl2lY3pUz1DPUQxRf9ha-IzQPlswRwoVqQrtY2cz3NxWzJPmTgi2wffiGcQcxgum-nIEB6iYIqXeJUxgGaoohl681AVDiEYI_6k9Vzz8SXvqG8xx7QnVBFBBT6qVlcs",
+        "width": 709
+      }
+    ],
+    "place_id": "ChIJj394f2Exw4ARMQwiEc9bSBc",
+    "plus_code": {
+      "compound_code": "38QH+72 Upland, CA, USA",
+      "global_code": "856438QH+72"
+    },
+    "rating": 3.2,
+    "reference": "ChIJj394f2Exw4ARMQwiEc9bSBc",
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 652,
+    "vicinity": "1282 West 7th Street, Upland"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 34.055103,
+        "lng": -117.7499909
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.1126000099462,
+          "lng": -117.7111701146794
+        },
+        "southwest": {
+          "lat": 34.01855406133029,
+          "lng": -117.8287189527606
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Pomona",
+    "photos": [
+      {
+        "height": 3680,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111711291147174180630\">Lek Su</a>"
+        ],
+        "photo_reference": "AeeoHcI7C3jg3x5sgnBextvOlCKL1W0daKs7a26f0wD3zodAk8HsPX33vaKQm9ORWWAG2HuehHKRqQmz8Sf01A79VCJ-Njx6bm8MUGGTmUFs9ppi8DfM9ixJ00AnL_f7Wttzo8_Y-du1V2FiYKNTeGZiUHal_LxvND_efYPMSDV88U0LRTgfd885L6Qxfy8R2t9pRLv69PmjNdNAuSqozsH76vmlIEL3RmaQ9DSF_dys7boAG2O733LNtArQWV1vaI-JUlnIlRGBuDHCXPaQG7Kxr_yX3JYNIzDjjDwAx-ocPJ2Fz2NgqG0yuIu93eC0mna3y8kHag4jHCEpoVMY96X4f-9FEo6zsq54Mmm2GXMdhXLPbBS9wQ3y368D-a12qlqD6uk6Zn4rw11zLwlLL5C3fA0q7y1uZVcqE_mzkZwZt-ZWAjW15wRq9sa-olx7EFYmCfCBbYcWJZziBiffcrmYaoiF6B2vkLMdOL94D4L90JhR1Wpad-ACynjZI3Ce0-GOirDWJsiXgkuMD14xPnFTSfirC1PuTPLWUjVXXS2CJAf3MpeV8wGPRc9EyFMwQTN0JzM_bCq3HrosqpgVY0ZzGMLG_UwtX7SS0WaK0YsuY4vhujoqwu4k4iTLhbKPOQ",
+        "width": 7344
+      }
+    ],
+    "place_id": "ChIJIaGfee8tw4ARM6nKAHCUCVI",
+    "reference": "ChIJIaGfee8tw4ARM6nKAHCUCVI",
+    "scope": "GOOGLE",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "vicinity": "Pomona"
+  }
+]
